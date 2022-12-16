@@ -12,6 +12,9 @@ from pandas.testing import assert_series_equal
 from datetime import datetime, timedelta
 
 
+load_dotenv()
+key = os.environ.get('KEY')
+username = os.environ.get('USERNAME')
 
 
 def attraction_id(name):

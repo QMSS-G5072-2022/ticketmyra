@@ -12,8 +12,7 @@ import re
 from pandas.testing import assert_frame_equal
 from pandas.testing import assert_series_equal
 from datetime import datetime, timedelta
-#import jqdatasdk as jq
-#import key
+
 
 
 def test_attraction_id():

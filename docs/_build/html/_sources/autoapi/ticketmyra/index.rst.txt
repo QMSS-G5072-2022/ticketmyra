@@ -1,0 +1,23 @@
+:py:mod:`ticketmyra`
+====================
+
+.. py:module:: ticketmyra
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   ticketmyra/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
